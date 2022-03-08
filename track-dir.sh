@@ -4,7 +4,7 @@ date=$(date +%Y-%m-%d)
 time=$(date +%H:%M:%S)
 
 set –o noclobber
-echo "============================Auto Git============================"
+echo "==========================Dir Tracker==========================="
 echo "|| This script is now monitoring this current directory       ||"
 echo "|| Enter the update interval between each push (Eg. 1 = 1 min)||"
 echo "================================================================"
